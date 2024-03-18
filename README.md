@@ -20,5 +20,5 @@ python fft.py --file1 <path_to_file1> --file2 <path_to_file2>
 ```
 
 ## License
-Copyright © 2024 Angie Lagana
+Copyright © 2024 Angeline Lagana.
 Distributed under the MIT License.
