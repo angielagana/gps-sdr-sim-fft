@@ -1,6 +1,6 @@
 # GPS Signal Analysis with FFT
 
-This script allows you to analyze and compare two GPS baseband signal data streams by computing the Fast Fourier Transform (FFT) and plotting the spectrum.
+This script allows you to analyze GPS baseband signal data streams by computing the Fast Fourier Transform (FFT) and plotting the spectrum.
 
 ## Features
 - Load GPS baseband signal data from binary files
@@ -15,8 +15,7 @@ This script allows you to analyze and compare two GPS baseband signal data strea
 
 ## Usage
 Clone the repository. Install the required dependencies. Run the following command: 
-> python gps_signal_analysis.py --file1 <path_to_file1> --file2 <path_to_file2>
-You can analyze a single file if desired. 
+> python gps_signal_analysis.py --file1 <path_to_file1> --file2 <path_to_file2> 
 
 ## License
 Copyright © 2024 Angie Lagana
