@@ -15,7 +15,9 @@ This script allows you to analyze GPS baseband signal data streams by computing 
 
 ## Usage
 Clone the repository. Install the required dependencies. Run the following command: 
-> python gps_signal_analysis.py --file1 <path_to_file1> --file2 <path_to_file2> 
+```python
+python gps_signal_analysis.py --file1 <path_to_file1> --file2 <path_to_file2>
+```
 
 ## License
 Copyright © 2024 Angie Lagana
